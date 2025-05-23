@@ -29,11 +29,11 @@ Explore my work in data dashboards, predictive modeling, and process optimizatio
 ## 🔬 Research Projects
 
 ### 🧠 [Impact of Epilepsy Disclosure](https://github.com/Vinmathiiyappan/Research-Impact-of-Epilepsy-Disclosure) 
-![Status](https://img.shields.io/badge/Status-In--Progress-yellow)
+![Status](https://img.shields.io/badge/Status-In--Progress-yellow)<br>
 Explored the social impact of disclosing or concealing of epilepsy conditions at workplace.  
 
 ### 💊 [Analysis of Prescription Drug Use](https://github.com/Vinmathiiyappan/Research-Analysis-of-prescription-Drug) 
-![Status](https://img.shields.io/badge/Status-In--Progress-yellow)
+![Status](https://img.shields.io/badge/Status-In--Progress-yellow)<br>
 Studied trends and behaviors in prescription drug consumption.  
 
 ---
@@ -41,33 +41,33 @@ Studied trends and behaviors in prescription drug consumption.
 ## 🚀 Featured Projects
 
 ### 🏦 [Predicting Loan Defaults](https://github.com/Vinmathiiyappan/Predicting-Loan-Defaults) 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) <br>
 Built a predictive model for loan default risk.  
 
 ### 🦠 [COVID-19 Tableau Dashboard](https://github.com/Vinmathiiyappan/Covid19-Tableau-Dashboard)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Interactive dashboard tracking global COVID-19 trends.  
 
 
 ### 🏘 [Real Estate Data Mining](https://github.com/Vinmathiiyappan/Real-Estate-Web-Scraping-Data-Mining)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Scraped and analyzed housing data for pricing trends.  
 
 ### 🚴‍♀️ [Bike Sales Dashboard](https://github.com/Vinmathiiyappan/Bike-Sales-Dashboard-Excel)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Excel dashboard highlighting key bike sales trends.  
 
 ### 🧾 [Time-Series Tax Revenue Analysis](https://github.com/Vinmathiiyappan/Time-series-Analysis-Tax-Revenue)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Forecasted government tax revenue using time-series methods.  
 
 ### 🏥 [Medicare Data Analysis in SQL](https://github.com/Vinmathiiyappan/Medicare-Data-Analysis-SQL) 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Analyzed Medicare cost and service usage data.  
 
 
 ### 🏡 [Airbnb Data Mining](https://github.com/Vinmathiiyappan/Airbnb-Data-Mining)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br> 
 Uncovered trends in Airbnb listings and pricing.  
 
 
