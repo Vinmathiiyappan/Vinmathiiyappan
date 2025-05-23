@@ -1,9 +1,11 @@
-<h1 align="center">👋 Hi, I'm Vinmathi Iyappan</h1>
+<div align="center">
 
-<p align="center">
-🎯 Data & Business Analyst | 📊 Data Storyteller | 📈 Insight Generator  
+# 👋 Hi, I'm Vinmathi Iyappan
+
+🎯 **Data & Business Analyst** | 📊 **Data Storyteller** | 📈 **Insight Generator**  
 I specialize in transforming complex data into actionable insights using analytics, automation, and visual storytelling.
-</p>
+
+</div>
 
 ---
 
