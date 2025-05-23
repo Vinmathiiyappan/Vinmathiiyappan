@@ -21,3 +21,28 @@ Explore my work in data dashboards, predictive modeling, and process optimizatio
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinmathiiyappan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vinmathiiyappan&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinmathiiyappan&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/vinmathi-iyappan/)  
+📧 vinmathi.iyappan@email.com (or your preferred contact)
+
+---
+
+_“Turning data into decisions.”_
